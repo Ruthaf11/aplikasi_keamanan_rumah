@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525062886248",
+    "project_id": "keamanan-rumah-e00eb",
+    "storage_bucket": "keamanan-rumah-e00eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525062886248:android:15fb031de963fdf7f77cdd",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_keamanan_rumah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJRG97Cn_TrkRhLRzsi7JefZUIGwnCbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
